@@ -1,0 +1,11 @@
+E:\Projects\DictionaryProject\DemoCoreApp\bin\Debug\netcoreapp2.0\WebApiJwtExample.deps.json
+E:\Projects\DictionaryProject\DemoCoreApp\bin\Debug\netcoreapp2.0\WebApiJwtExample.runtimeconfig.json
+E:\Projects\DictionaryProject\DemoCoreApp\bin\Debug\netcoreapp2.0\WebApiJwtExample.runtimeconfig.dev.json
+E:\Projects\DictionaryProject\DemoCoreApp\bin\Debug\netcoreapp2.0\WebApiJwtExample.dll
+E:\Projects\DictionaryProject\DemoCoreApp\bin\Debug\netcoreapp2.0\WebApiJwtExample.pdb
+E:\Projects\DictionaryProject\DemoCoreApp\obj\Debug\netcoreapp2.0\WebApiJwtExample.csprojAssemblyReference.cache
+E:\Projects\DictionaryProject\DemoCoreApp\obj\Debug\netcoreapp2.0\WebApiJwtExample.csproj.CoreCompileInputs.cache
+E:\Projects\DictionaryProject\DemoCoreApp\obj\Debug\netcoreapp2.0\WebApiJwtExample.AssemblyInfoInputs.cache
+E:\Projects\DictionaryProject\DemoCoreApp\obj\Debug\netcoreapp2.0\WebApiJwtExample.AssemblyInfo.cs
+E:\Projects\DictionaryProject\DemoCoreApp\obj\Debug\netcoreapp2.0\WebApiJwtExample.dll
+E:\Projects\DictionaryProject\DemoCoreApp\obj\Debug\netcoreapp2.0\WebApiJwtExample.pdb
